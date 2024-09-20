@@ -6,7 +6,7 @@ interface Drawable{
     public void draw();  
 }  
   
-public class LambdaExpressionExample {  
+public class LambdaExpressionExample1 {  
     public static void main(String[] args) {  
         int width=10;  
           
