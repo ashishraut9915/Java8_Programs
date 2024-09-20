@@ -4,7 +4,7 @@ package FunctionalInterface;
 interface sayable{
 	void say(String msg);
 }
-public class FunctionalInterfaceExample implements sayable{
+public class FunctionalInterfaceExample1 implements sayable{
 
 	@Override
 	public void say(String msg) {
