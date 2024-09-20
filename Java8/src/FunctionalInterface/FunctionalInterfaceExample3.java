@@ -12,7 +12,7 @@ interface Sayabble extends Douables{
     void say(String msg);   // abstract method  in this interface... and abstract method not present in super interface so it is possible
 }  
 
-public class FunctionalInterfaceExample4 implements Sayabble{  
+public class FunctionalInterfaceExample3 implements Sayabble{  
     public void say(String msg){  
         System.out.println(msg);  
     }  
